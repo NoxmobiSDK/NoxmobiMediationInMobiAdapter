@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationInMobiAdapter"
-  spec.version      = "9.0.7.2" # Mark
+  spec.version      = "9.0.7.3" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for InMobi."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationInMobiAdapter"
   spec.license      = "MIT"
