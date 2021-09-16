@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationInMobiAdapter"
-  spec.version      = "9.1.7.0" # Mark
+  spec.version      = "9.2.1.0" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for InMobi."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationInMobiAdapter"
   spec.license      = "MIT"
@@ -15,6 +15,6 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'NoxmobiMediationInMobiAdapter.framework'
   spec.requires_arc = true
 
-  spec.dependency "InMobiSDK/Core", "9.1.7"
+  spec.dependency "InMobiSDK/Core", "9.2.1"
 
 end
