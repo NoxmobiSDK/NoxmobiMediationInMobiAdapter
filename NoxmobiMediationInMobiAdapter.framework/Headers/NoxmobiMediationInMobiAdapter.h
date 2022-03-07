@@ -9,4 +9,4 @@
 
 #import <Foundation/Foundation.h>
 
-#define NoxmobiMediationInMobiAdapterVersion @"10.0.1.0"
+#define NoxmobiMediationInMobiAdapterVersion @"10.0.2.0"
